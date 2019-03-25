@@ -1,0 +1,1967 @@
+Telegram\Bot\Objects\Message::__set_state(array(
+   'items' => 
+  array (
+    'message_id' => 5,
+    'from' => 
+    Telegram\Bot\Objects\User::__set_state(array(
+       'items' => 
+      array (
+        'id' => 140419085,
+        'is_bot' => false,
+        'first_name' => 'pooh95',
+        'username' => 'pooh95',
+        'language_code' => 'ru',
+      ),
+    )),
+    'chat' => 
+    Telegram\Bot\Objects\Chat::__set_state(array(
+       'items' => 
+      array (
+        'id' => 140419085,
+        'first_name' => 'pooh95',
+        'username' => 'pooh95',
+        'type' => 'private',
+      ),
+    )),
+    'date' => 1553457916,
+    'text' => '/test',
+    'entities' => 
+    array (
+      0 => 
+      array (
+        'offset' => 0,
+        'length' => 5,
+        'type' => 'bot_command',
+      ),
+    ),
+  ),
+))
+
+Telegram\Bot\Objects\Message::__set_state(array(
+   'items' => 
+  array (
+    'message_id' => 10,
+    'from' => 
+    Telegram\Bot\Objects\User::__set_state(array(
+       'items' => 
+      array (
+        'id' => 140419085,
+        'is_bot' => false,
+        'first_name' => 'pooh95',
+        'username' => 'pooh95',
+        'language_code' => 'ru',
+      ),
+    )),
+    'chat' => 
+    Telegram\Bot\Objects\Chat::__set_state(array(
+       'items' => 
+      array (
+        'id' => 140419085,
+        'first_name' => 'pooh95',
+        'username' => 'pooh95',
+        'type' => 'private',
+      ),
+    )),
+    'date' => 1553458059,
+    'text' => '/test',
+    'entities' => 
+    array (
+      0 => 
+      array (
+        'offset' => 0,
+        'length' => 5,
+        'type' => 'bot_command',
+      ),
+    ),
+  ),
+))
+
+Telegram\Bot\Objects\Message::__set_state(array(
+   'items' => 
+  array (
+    'message_id' => 16,
+    'from' => 
+    Telegram\Bot\Objects\User::__set_state(array(
+       'items' => 
+      array (
+        'id' => 140419085,
+        'is_bot' => false,
+        'first_name' => 'pooh95',
+        'username' => 'pooh95',
+        'language_code' => 'ru',
+      ),
+    )),
+    'chat' => 
+    Telegram\Bot\Objects\Chat::__set_state(array(
+       'items' => 
+      array (
+        'id' => 140419085,
+        'first_name' => 'pooh95',
+        'username' => 'pooh95',
+        'type' => 'private',
+      ),
+    )),
+    'date' => 1553458134,
+    'text' => '/test',
+    'entities' => 
+    array (
+      0 => 
+      array (
+        'offset' => 0,
+        'length' => 5,
+        'type' => 'bot_command',
+      ),
+    ),
+  ),
+))
+
+Telegram\Bot\Objects\Message::__set_state(array(
+   'items' => 
+  array (
+    'message_id' => 43,
+    'from' => 
+    Telegram\Bot\Objects\User::__set_state(array(
+       'items' => 
+      array (
+        'id' => 140419085,
+        'is_bot' => false,
+        'first_name' => 'pooh95',
+        'username' => 'pooh95',
+        'language_code' => 'ru',
+      ),
+    )),
+    'chat' => 
+    Telegram\Bot\Objects\Chat::__set_state(array(
+       'items' => 
+      array (
+        'id' => 140419085,
+        'first_name' => 'pooh95',
+        'username' => 'pooh95',
+        'type' => 'private',
+      ),
+    )),
+    'date' => 1553458846,
+    'text' => '/test',
+    'entities' => 
+    array (
+      0 => 
+      array (
+        'offset' => 0,
+        'length' => 5,
+        'type' => 'bot_command',
+      ),
+    ),
+  ),
+))
+
+Telegram\Bot\Objects\Message::__set_state(array(
+   'items' => 
+  array (
+    'message_id' => 84,
+    'from' => 
+    Telegram\Bot\Objects\User::__set_state(array(
+       'items' => 
+      array (
+        'id' => 140419085,
+        'is_bot' => false,
+        'first_name' => 'pooh95',
+        'username' => 'pooh95',
+        'language_code' => 'ru',
+      ),
+    )),
+    'chat' => 
+    Telegram\Bot\Objects\Chat::__set_state(array(
+       'items' => 
+      array (
+        'id' => 140419085,
+        'first_name' => 'pooh95',
+        'username' => 'pooh95',
+        'type' => 'private',
+      ),
+    )),
+    'date' => 1553460109,
+    'text' => '/start',
+    'entities' => 
+    array (
+      0 => 
+      array (
+        'offset' => 0,
+        'length' => 6,
+        'type' => 'bot_command',
+      ),
+    ),
+  ),
+))
+
+Telegram\Bot\Objects\Message::__set_state(array(
+   'items' => 
+  array (
+    'message_id' => 88,
+    'from' => 
+    Telegram\Bot\Objects\User::__set_state(array(
+       'items' => 
+      array (
+        'id' => 140419085,
+        'is_bot' => false,
+        'first_name' => 'pooh95',
+        'username' => 'pooh95',
+        'language_code' => 'ru',
+      ),
+    )),
+    'chat' => 
+    Telegram\Bot\Objects\Chat::__set_state(array(
+       'items' => 
+      array (
+        'id' => 140419085,
+        'first_name' => 'pooh95',
+        'username' => 'pooh95',
+        'type' => 'private',
+      ),
+    )),
+    'date' => 1553460116,
+    'text' => '/start',
+    'entities' => 
+    array (
+      0 => 
+      array (
+        'offset' => 0,
+        'length' => 6,
+        'type' => 'bot_command',
+      ),
+    ),
+  ),
+))
+
+Telegram\Bot\Objects\Message::__set_state(array(
+   'items' => 
+  array (
+    'message_id' => 98,
+    'from' => 
+    Telegram\Bot\Objects\User::__set_state(array(
+       'items' => 
+      array (
+        'id' => 140419085,
+        'is_bot' => false,
+        'first_name' => 'pooh95',
+        'username' => 'pooh95',
+        'language_code' => 'ru',
+      ),
+    )),
+    'chat' => 
+    Telegram\Bot\Objects\Chat::__set_state(array(
+       'items' => 
+      array (
+        'id' => 140419085,
+        'first_name' => 'pooh95',
+        'username' => 'pooh95',
+        'type' => 'private',
+      ),
+    )),
+    'date' => 1553460307,
+    'text' => '/start',
+    'entities' => 
+    array (
+      0 => 
+      array (
+        'offset' => 0,
+        'length' => 6,
+        'type' => 'bot_command',
+      ),
+    ),
+  ),
+))
+
+Telegram\Bot\Objects\Message::__set_state(array(
+   'items' => 
+  array (
+    'message_id' => 102,
+    'from' => 
+    Telegram\Bot\Objects\User::__set_state(array(
+       'items' => 
+      array (
+        'id' => 140419085,
+        'is_bot' => false,
+        'first_name' => 'pooh95',
+        'username' => 'pooh95',
+        'language_code' => 'ru',
+      ),
+    )),
+    'chat' => 
+    Telegram\Bot\Objects\Chat::__set_state(array(
+       'items' => 
+      array (
+        'id' => 140419085,
+        'first_name' => 'pooh95',
+        'username' => 'pooh95',
+        'type' => 'private',
+      ),
+    )),
+    'date' => 1553460315,
+    'text' => '/start',
+    'entities' => 
+    array (
+      0 => 
+      array (
+        'offset' => 0,
+        'length' => 6,
+        'type' => 'bot_command',
+      ),
+    ),
+  ),
+))
+
+array (
+  0 => 
+  array (
+    0 => 'BTC',
+  ),
+  1 => 
+  array (
+    0 => 'ETH',
+  ),
+  2 => 
+  array (
+    0 => 'NEO',
+  ),
+)
+
+array (
+  0 => 'BTC',
+)
+
+'{"keyboard":[["BTC"],["ETH"],["NEO"]],"resize_keyboard":true}'
+
+'/start'
+
+Telegram\Bot\Objects\Message::__set_state(array(
+   'items' => 
+  array (
+    'message_id' => 120,
+    'from' => 
+    Telegram\Bot\Objects\User::__set_state(array(
+       'items' => 
+      array (
+        'id' => 140419085,
+        'is_bot' => false,
+        'first_name' => 'pooh95',
+        'username' => 'pooh95',
+        'language_code' => 'ru',
+      ),
+    )),
+    'chat' => 
+    Telegram\Bot\Objects\Chat::__set_state(array(
+       'items' => 
+      array (
+        'id' => 140419085,
+        'first_name' => 'pooh95',
+        'username' => 'pooh95',
+        'type' => 'private',
+      ),
+    )),
+    'date' => 1553461302,
+    'text' => '/start',
+    'entities' => 
+    array (
+      0 => 
+      array (
+        'offset' => 0,
+        'length' => 6,
+        'type' => 'bot_command',
+      ),
+    ),
+  ),
+))
+
+Telegram\Bot\Objects\Message::__set_state(array(
+   'items' => 
+  array (
+    'message_id' => 124,
+    'from' => 
+    Telegram\Bot\Objects\User::__set_state(array(
+       'items' => 
+      array (
+        'id' => 873358626,
+        'is_bot' => true,
+        'first_name' => 'TestBot',
+        'username' => 'lartbot',
+      ),
+    )),
+    'chat' => 
+    Telegram\Bot\Objects\Chat::__set_state(array(
+       'items' => 
+      array (
+        'id' => 140419085,
+        'first_name' => 'pooh95',
+        'username' => 'pooh95',
+        'type' => 'private',
+      ),
+    )),
+    'date' => 1553461492,
+    'text' => 'Hello World',
+  ),
+))
+
+Telegram\Bot\Objects\Update::__set_state(array(
+   'items' => 
+  array (
+    'update_id' => 989507000,
+    'message' => 
+    Telegram\Bot\Objects\Message::__set_state(array(
+       'items' => 
+      array (
+        'message_id' => 127,
+        'from' => 
+        Telegram\Bot\Objects\User::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'is_bot' => false,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'language_code' => 'ru',
+          ),
+        )),
+        'chat' => 
+        Telegram\Bot\Objects\Chat::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'type' => 'private',
+          ),
+        )),
+        'date' => 1553461748,
+        'text' => '/start',
+        'entities' => 
+        array (
+          0 => 
+          array (
+            'offset' => 0,
+            'length' => 6,
+            'type' => 'bot_command',
+          ),
+        ),
+      ),
+    )),
+  ),
+))
+
+Telegram\Bot\Objects\Update::__set_state(array(
+   'items' => 
+  array (
+    'update_id' => 989506999,
+    'message' => 
+    Telegram\Bot\Objects\Message::__set_state(array(
+       'items' => 
+      array (
+        'message_id' => 126,
+        'from' => 
+        Telegram\Bot\Objects\User::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'is_bot' => false,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'language_code' => 'ru',
+          ),
+        )),
+        'chat' => 
+        Telegram\Bot\Objects\Chat::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'type' => 'private',
+          ),
+        )),
+        'date' => 1553461735,
+        'text' => '/start',
+        'entities' => 
+        array (
+          0 => 
+          array (
+            'offset' => 0,
+            'length' => 6,
+            'type' => 'bot_command',
+          ),
+        ),
+      ),
+    )),
+  ),
+))
+
+Telegram\Bot\Objects\Update::__set_state(array(
+   'items' => 
+  array (
+    'update_id' => 989507004,
+    'message' => 
+    Telegram\Bot\Objects\Message::__set_state(array(
+       'items' => 
+      array (
+        'message_id' => 133,
+        'from' => 
+        Telegram\Bot\Objects\User::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'is_bot' => false,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'language_code' => 'ru',
+          ),
+        )),
+        'chat' => 
+        Telegram\Bot\Objects\Chat::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'type' => 'private',
+          ),
+        )),
+        'date' => 1553462003,
+        'text' => '/start',
+        'entities' => 
+        array (
+          0 => 
+          array (
+            'offset' => 0,
+            'length' => 6,
+            'type' => 'bot_command',
+          ),
+        ),
+      ),
+    )),
+  ),
+))
+
+Telegram\Bot\Objects\Update::__set_state(array(
+   'items' => 
+  array (
+    'update_id' => 989507005,
+    'message' => 
+    Telegram\Bot\Objects\Message::__set_state(array(
+       'items' => 
+      array (
+        'message_id' => 135,
+        'from' => 
+        Telegram\Bot\Objects\User::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'is_bot' => false,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'language_code' => 'ru',
+          ),
+        )),
+        'chat' => 
+        Telegram\Bot\Objects\Chat::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'type' => 'private',
+          ),
+        )),
+        'date' => 1553462283,
+        'text' => '/start',
+        'entities' => 
+        array (
+          0 => 
+          array (
+            'offset' => 0,
+            'length' => 6,
+            'type' => 'bot_command',
+          ),
+        ),
+      ),
+    )),
+  ),
+))
+
+Telegram\Bot\Objects\Update::__set_state(array(
+   'items' => 
+  array (
+    'update_id' => 989507005,
+    'message' => 
+    Telegram\Bot\Objects\Message::__set_state(array(
+       'items' => 
+      array (
+        'message_id' => 135,
+        'from' => 
+        Telegram\Bot\Objects\User::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'is_bot' => false,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'language_code' => 'ru',
+          ),
+        )),
+        'chat' => 
+        Telegram\Bot\Objects\Chat::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'type' => 'private',
+          ),
+        )),
+        'date' => 1553462283,
+        'text' => '/start',
+        'entities' => 
+        array (
+          0 => 
+          array (
+            'offset' => 0,
+            'length' => 6,
+            'type' => 'bot_command',
+          ),
+        ),
+      ),
+    )),
+  ),
+))
+
+Telegram\Bot\Objects\Update::__set_state(array(
+   'items' => 
+  array (
+    'update_id' => 989507005,
+    'message' => 
+    Telegram\Bot\Objects\Message::__set_state(array(
+       'items' => 
+      array (
+        'message_id' => 135,
+        'from' => 
+        Telegram\Bot\Objects\User::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'is_bot' => false,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'language_code' => 'ru',
+          ),
+        )),
+        'chat' => 
+        Telegram\Bot\Objects\Chat::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'type' => 'private',
+          ),
+        )),
+        'date' => 1553462283,
+        'text' => '/start',
+        'entities' => 
+        array (
+          0 => 
+          array (
+            'offset' => 0,
+            'length' => 6,
+            'type' => 'bot_command',
+          ),
+        ),
+      ),
+    )),
+  ),
+))
+
+Telegram\Bot\Objects\Update::__set_state(array(
+   'items' => 
+  array (
+    'update_id' => 989507005,
+    'message' => 
+    Telegram\Bot\Objects\Message::__set_state(array(
+       'items' => 
+      array (
+        'message_id' => 135,
+        'from' => 
+        Telegram\Bot\Objects\User::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'is_bot' => false,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'language_code' => 'ru',
+          ),
+        )),
+        'chat' => 
+        Telegram\Bot\Objects\Chat::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'type' => 'private',
+          ),
+        )),
+        'date' => 1553462283,
+        'text' => '/start',
+        'entities' => 
+        array (
+          0 => 
+          array (
+            'offset' => 0,
+            'length' => 6,
+            'type' => 'bot_command',
+          ),
+        ),
+      ),
+    )),
+  ),
+))
+
+Telegram\Bot\Objects\Update::__set_state(array(
+   'items' => 
+  array (
+    'update_id' => 989507005,
+    'message' => 
+    Telegram\Bot\Objects\Message::__set_state(array(
+       'items' => 
+      array (
+        'message_id' => 135,
+        'from' => 
+        Telegram\Bot\Objects\User::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'is_bot' => false,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'language_code' => 'ru',
+          ),
+        )),
+        'chat' => 
+        Telegram\Bot\Objects\Chat::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'type' => 'private',
+          ),
+        )),
+        'date' => 1553462283,
+        'text' => '/start',
+        'entities' => 
+        array (
+          0 => 
+          array (
+            'offset' => 0,
+            'length' => 6,
+            'type' => 'bot_command',
+          ),
+        ),
+      ),
+    )),
+  ),
+))
+
+Telegram\Bot\Objects\Update::__set_state(array(
+   'items' => 
+  array (
+    'update_id' => 989507005,
+    'message' => 
+    Telegram\Bot\Objects\Message::__set_state(array(
+       'items' => 
+      array (
+        'message_id' => 135,
+        'from' => 
+        Telegram\Bot\Objects\User::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'is_bot' => false,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'language_code' => 'ru',
+          ),
+        )),
+        'chat' => 
+        Telegram\Bot\Objects\Chat::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'type' => 'private',
+          ),
+        )),
+        'date' => 1553462283,
+        'text' => '/start',
+        'entities' => 
+        array (
+          0 => 
+          array (
+            'offset' => 0,
+            'length' => 6,
+            'type' => 'bot_command',
+          ),
+        ),
+      ),
+    )),
+  ),
+))
+
+Telegram\Bot\Objects\Update::__set_state(array(
+   'items' => 
+  array (
+    'update_id' => 989507006,
+    'message' => 
+    Telegram\Bot\Objects\Message::__set_state(array(
+       'items' => 
+      array (
+        'message_id' => 136,
+        'from' => 
+        Telegram\Bot\Objects\User::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'is_bot' => false,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'language_code' => 'ru',
+          ),
+        )),
+        'chat' => 
+        Telegram\Bot\Objects\Chat::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'type' => 'private',
+          ),
+        )),
+        'date' => 1553462360,
+        'text' => '/start',
+        'entities' => 
+        array (
+          0 => 
+          array (
+            'offset' => 0,
+            'length' => 6,
+            'type' => 'bot_command',
+          ),
+        ),
+      ),
+    )),
+  ),
+))
+
+Telegram\Bot\Objects\Update::__set_state(array(
+   'items' => 
+  array (
+    'update_id' => 989507006,
+    'message' => 
+    Telegram\Bot\Objects\Message::__set_state(array(
+       'items' => 
+      array (
+        'message_id' => 136,
+        'from' => 
+        Telegram\Bot\Objects\User::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'is_bot' => false,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'language_code' => 'ru',
+          ),
+        )),
+        'chat' => 
+        Telegram\Bot\Objects\Chat::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'type' => 'private',
+          ),
+        )),
+        'date' => 1553462360,
+        'text' => '/start',
+        'entities' => 
+        array (
+          0 => 
+          array (
+            'offset' => 0,
+            'length' => 6,
+            'type' => 'bot_command',
+          ),
+        ),
+      ),
+    )),
+  ),
+))
+
+Telegram\Bot\Objects\Update::__set_state(array(
+   'items' => 
+  array (
+    'update_id' => 989507006,
+    'message' => 
+    Telegram\Bot\Objects\Message::__set_state(array(
+       'items' => 
+      array (
+        'message_id' => 136,
+        'from' => 
+        Telegram\Bot\Objects\User::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'is_bot' => false,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'language_code' => 'ru',
+          ),
+        )),
+        'chat' => 
+        Telegram\Bot\Objects\Chat::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'type' => 'private',
+          ),
+        )),
+        'date' => 1553462360,
+        'text' => '/start',
+        'entities' => 
+        array (
+          0 => 
+          array (
+            'offset' => 0,
+            'length' => 6,
+            'type' => 'bot_command',
+          ),
+        ),
+      ),
+    )),
+  ),
+))
+
+Telegram\Bot\Objects\Update::__set_state(array(
+   'items' => 
+  array (
+    'update_id' => 989507006,
+    'message' => 
+    Telegram\Bot\Objects\Message::__set_state(array(
+       'items' => 
+      array (
+        'message_id' => 136,
+        'from' => 
+        Telegram\Bot\Objects\User::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'is_bot' => false,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'language_code' => 'ru',
+          ),
+        )),
+        'chat' => 
+        Telegram\Bot\Objects\Chat::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'type' => 'private',
+          ),
+        )),
+        'date' => 1553462360,
+        'text' => '/start',
+        'entities' => 
+        array (
+          0 => 
+          array (
+            'offset' => 0,
+            'length' => 6,
+            'type' => 'bot_command',
+          ),
+        ),
+      ),
+    )),
+  ),
+))
+
+Telegram\Bot\Objects\Update::__set_state(array(
+   'items' => 
+  array (
+    'update_id' => 989507006,
+    'message' => 
+    Telegram\Bot\Objects\Message::__set_state(array(
+       'items' => 
+      array (
+        'message_id' => 136,
+        'from' => 
+        Telegram\Bot\Objects\User::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'is_bot' => false,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'language_code' => 'ru',
+          ),
+        )),
+        'chat' => 
+        Telegram\Bot\Objects\Chat::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'type' => 'private',
+          ),
+        )),
+        'date' => 1553462360,
+        'text' => '/start',
+        'entities' => 
+        array (
+          0 => 
+          array (
+            'offset' => 0,
+            'length' => 6,
+            'type' => 'bot_command',
+          ),
+        ),
+      ),
+    )),
+  ),
+))
+
+Telegram\Bot\Objects\Update::__set_state(array(
+   'items' => 
+  array (
+    'update_id' => 989507005,
+    'message' => 
+    Telegram\Bot\Objects\Message::__set_state(array(
+       'items' => 
+      array (
+        'message_id' => 135,
+        'from' => 
+        Telegram\Bot\Objects\User::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'is_bot' => false,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'language_code' => 'ru',
+          ),
+        )),
+        'chat' => 
+        Telegram\Bot\Objects\Chat::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'type' => 'private',
+          ),
+        )),
+        'date' => 1553462283,
+        'text' => '/start',
+        'entities' => 
+        array (
+          0 => 
+          array (
+            'offset' => 0,
+            'length' => 6,
+            'type' => 'bot_command',
+          ),
+        ),
+      ),
+    )),
+  ),
+))
+
+Telegram\Bot\Objects\Update::__set_state(array(
+   'items' => 
+  array (
+    'update_id' => 989507006,
+    'message' => 
+    Telegram\Bot\Objects\Message::__set_state(array(
+       'items' => 
+      array (
+        'message_id' => 136,
+        'from' => 
+        Telegram\Bot\Objects\User::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'is_bot' => false,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'language_code' => 'ru',
+          ),
+        )),
+        'chat' => 
+        Telegram\Bot\Objects\Chat::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'type' => 'private',
+          ),
+        )),
+        'date' => 1553462360,
+        'text' => '/start',
+        'entities' => 
+        array (
+          0 => 
+          array (
+            'offset' => 0,
+            'length' => 6,
+            'type' => 'bot_command',
+          ),
+        ),
+      ),
+    )),
+  ),
+))
+
+Telegram\Bot\Objects\Update::__set_state(array(
+   'items' => 
+  array (
+    'update_id' => 989507007,
+    'message' => 
+    Telegram\Bot\Objects\Message::__set_state(array(
+       'items' => 
+      array (
+        'message_id' => 137,
+        'from' => 
+        Telegram\Bot\Objects\User::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'is_bot' => false,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'language_code' => 'ru',
+          ),
+        )),
+        'chat' => 
+        Telegram\Bot\Objects\Chat::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'type' => 'private',
+          ),
+        )),
+        'date' => 1553462432,
+        'text' => '/start',
+        'entities' => 
+        array (
+          0 => 
+          array (
+            'offset' => 0,
+            'length' => 6,
+            'type' => 'bot_command',
+          ),
+        ),
+      ),
+    )),
+  ),
+))
+
+Telegram\Bot\Objects\Update::__set_state(array(
+   'items' => 
+  array (
+    'update_id' => 989507007,
+    'message' => 
+    Telegram\Bot\Objects\Message::__set_state(array(
+       'items' => 
+      array (
+        'message_id' => 137,
+        'from' => 
+        Telegram\Bot\Objects\User::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'is_bot' => false,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'language_code' => 'ru',
+          ),
+        )),
+        'chat' => 
+        Telegram\Bot\Objects\Chat::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'type' => 'private',
+          ),
+        )),
+        'date' => 1553462432,
+        'text' => '/start',
+        'entities' => 
+        array (
+          0 => 
+          array (
+            'offset' => 0,
+            'length' => 6,
+            'type' => 'bot_command',
+          ),
+        ),
+      ),
+    )),
+  ),
+))
+
+Telegram\Bot\Objects\Update::__set_state(array(
+   'items' => 
+  array (
+    'update_id' => 989507007,
+    'message' => 
+    Telegram\Bot\Objects\Message::__set_state(array(
+       'items' => 
+      array (
+        'message_id' => 137,
+        'from' => 
+        Telegram\Bot\Objects\User::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'is_bot' => false,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'language_code' => 'ru',
+          ),
+        )),
+        'chat' => 
+        Telegram\Bot\Objects\Chat::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'type' => 'private',
+          ),
+        )),
+        'date' => 1553462432,
+        'text' => '/start',
+        'entities' => 
+        array (
+          0 => 
+          array (
+            'offset' => 0,
+            'length' => 6,
+            'type' => 'bot_command',
+          ),
+        ),
+      ),
+    )),
+  ),
+))
+
+Telegram\Bot\Objects\Update::__set_state(array(
+   'items' => 
+  array (
+    'update_id' => 989507007,
+    'message' => 
+    Telegram\Bot\Objects\Message::__set_state(array(
+       'items' => 
+      array (
+        'message_id' => 137,
+        'from' => 
+        Telegram\Bot\Objects\User::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'is_bot' => false,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'language_code' => 'ru',
+          ),
+        )),
+        'chat' => 
+        Telegram\Bot\Objects\Chat::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'type' => 'private',
+          ),
+        )),
+        'date' => 1553462432,
+        'text' => '/start',
+        'entities' => 
+        array (
+          0 => 
+          array (
+            'offset' => 0,
+            'length' => 6,
+            'type' => 'bot_command',
+          ),
+        ),
+      ),
+    )),
+  ),
+))
+
+Telegram\Bot\Objects\Update::__set_state(array(
+   'items' => 
+  array (
+    'update_id' => 989507007,
+    'message' => 
+    Telegram\Bot\Objects\Message::__set_state(array(
+       'items' => 
+      array (
+        'message_id' => 137,
+        'from' => 
+        Telegram\Bot\Objects\User::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'is_bot' => false,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'language_code' => 'ru',
+          ),
+        )),
+        'chat' => 
+        Telegram\Bot\Objects\Chat::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'type' => 'private',
+          ),
+        )),
+        'date' => 1553462432,
+        'text' => '/start',
+        'entities' => 
+        array (
+          0 => 
+          array (
+            'offset' => 0,
+            'length' => 6,
+            'type' => 'bot_command',
+          ),
+        ),
+      ),
+    )),
+  ),
+))
+
+Telegram\Bot\Objects\Update::__set_state(array(
+   'items' => 
+  array (
+    'update_id' => 989507005,
+    'message' => 
+    Telegram\Bot\Objects\Message::__set_state(array(
+       'items' => 
+      array (
+        'message_id' => 135,
+        'from' => 
+        Telegram\Bot\Objects\User::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'is_bot' => false,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'language_code' => 'ru',
+          ),
+        )),
+        'chat' => 
+        Telegram\Bot\Objects\Chat::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'type' => 'private',
+          ),
+        )),
+        'date' => 1553462283,
+        'text' => '/start',
+        'entities' => 
+        array (
+          0 => 
+          array (
+            'offset' => 0,
+            'length' => 6,
+            'type' => 'bot_command',
+          ),
+        ),
+      ),
+    )),
+  ),
+))
+
+Telegram\Bot\Objects\Update::__set_state(array(
+   'items' => 
+  array (
+    'update_id' => 989507006,
+    'message' => 
+    Telegram\Bot\Objects\Message::__set_state(array(
+       'items' => 
+      array (
+        'message_id' => 136,
+        'from' => 
+        Telegram\Bot\Objects\User::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'is_bot' => false,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'language_code' => 'ru',
+          ),
+        )),
+        'chat' => 
+        Telegram\Bot\Objects\Chat::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'type' => 'private',
+          ),
+        )),
+        'date' => 1553462360,
+        'text' => '/start',
+        'entities' => 
+        array (
+          0 => 
+          array (
+            'offset' => 0,
+            'length' => 6,
+            'type' => 'bot_command',
+          ),
+        ),
+      ),
+    )),
+  ),
+))
+
+Telegram\Bot\Objects\Update::__set_state(array(
+   'items' => 
+  array (
+    'update_id' => 989507007,
+    'message' => 
+    Telegram\Bot\Objects\Message::__set_state(array(
+       'items' => 
+      array (
+        'message_id' => 137,
+        'from' => 
+        Telegram\Bot\Objects\User::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'is_bot' => false,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'language_code' => 'ru',
+          ),
+        )),
+        'chat' => 
+        Telegram\Bot\Objects\Chat::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'type' => 'private',
+          ),
+        )),
+        'date' => 1553462432,
+        'text' => '/start',
+        'entities' => 
+        array (
+          0 => 
+          array (
+            'offset' => 0,
+            'length' => 6,
+            'type' => 'bot_command',
+          ),
+        ),
+      ),
+    )),
+  ),
+))
+
+Telegram\Bot\Objects\Update::__set_state(array(
+   'items' => 
+  array (
+    'update_id' => 989507005,
+    'message' => 
+    Telegram\Bot\Objects\Message::__set_state(array(
+       'items' => 
+      array (
+        'message_id' => 135,
+        'from' => 
+        Telegram\Bot\Objects\User::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'is_bot' => false,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'language_code' => 'ru',
+          ),
+        )),
+        'chat' => 
+        Telegram\Bot\Objects\Chat::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'type' => 'private',
+          ),
+        )),
+        'date' => 1553462283,
+        'text' => '/start',
+        'entities' => 
+        array (
+          0 => 
+          array (
+            'offset' => 0,
+            'length' => 6,
+            'type' => 'bot_command',
+          ),
+        ),
+      ),
+    )),
+  ),
+))
+
+Telegram\Bot\Objects\Update::__set_state(array(
+   'items' => 
+  array (
+    'update_id' => 989507006,
+    'message' => 
+    Telegram\Bot\Objects\Message::__set_state(array(
+       'items' => 
+      array (
+        'message_id' => 136,
+        'from' => 
+        Telegram\Bot\Objects\User::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'is_bot' => false,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'language_code' => 'ru',
+          ),
+        )),
+        'chat' => 
+        Telegram\Bot\Objects\Chat::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'type' => 'private',
+          ),
+        )),
+        'date' => 1553462360,
+        'text' => '/start',
+        'entities' => 
+        array (
+          0 => 
+          array (
+            'offset' => 0,
+            'length' => 6,
+            'type' => 'bot_command',
+          ),
+        ),
+      ),
+    )),
+  ),
+))
+
+Telegram\Bot\Objects\Update::__set_state(array(
+   'items' => 
+  array (
+    'update_id' => 989507005,
+    'message' => 
+    Telegram\Bot\Objects\Message::__set_state(array(
+       'items' => 
+      array (
+        'message_id' => 135,
+        'from' => 
+        Telegram\Bot\Objects\User::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'is_bot' => false,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'language_code' => 'ru',
+          ),
+        )),
+        'chat' => 
+        Telegram\Bot\Objects\Chat::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'type' => 'private',
+          ),
+        )),
+        'date' => 1553462283,
+        'text' => '/start',
+        'entities' => 
+        array (
+          0 => 
+          array (
+            'offset' => 0,
+            'length' => 6,
+            'type' => 'bot_command',
+          ),
+        ),
+      ),
+    )),
+  ),
+))
+
+Telegram\Bot\Objects\Update::__set_state(array(
+   'items' => 
+  array (
+    'update_id' => 989507018,
+    'message' => 
+    Telegram\Bot\Objects\Message::__set_state(array(
+       'items' => 
+      array (
+        'message_id' => 156,
+        'from' => 
+        Telegram\Bot\Objects\User::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'is_bot' => false,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'language_code' => 'ru',
+          ),
+        )),
+        'chat' => 
+        Telegram\Bot\Objects\Chat::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'type' => 'private',
+          ),
+        )),
+        'date' => 1553462954,
+        'text' => '/start',
+        'entities' => 
+        array (
+          0 => 
+          array (
+            'offset' => 0,
+            'length' => 6,
+            'type' => 'bot_command',
+          ),
+        ),
+      ),
+    )),
+  ),
+))
+
+Telegram\Bot\Objects\Update::__set_state(array(
+   'items' => 
+  array (
+    'update_id' => 989507015,
+    'message' => 
+    Telegram\Bot\Objects\Message::__set_state(array(
+       'items' => 
+      array (
+        'message_id' => 145,
+        'from' => 
+        Telegram\Bot\Objects\User::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'is_bot' => false,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'language_code' => 'ru',
+          ),
+        )),
+        'chat' => 
+        Telegram\Bot\Objects\Chat::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'type' => 'private',
+          ),
+        )),
+        'date' => 1553462830,
+        'text' => '/start',
+        'entities' => 
+        array (
+          0 => 
+          array (
+            'offset' => 0,
+            'length' => 6,
+            'type' => 'bot_command',
+          ),
+        ),
+      ),
+    )),
+  ),
+))
+
+Telegram\Bot\Objects\Update::__set_state(array(
+   'items' => 
+  array (
+    'update_id' => 989507009,
+    'message' => 
+    Telegram\Bot\Objects\Message::__set_state(array(
+       'items' => 
+      array (
+        'message_id' => 139,
+        'from' => 
+        Telegram\Bot\Objects\User::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'is_bot' => false,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'language_code' => 'ru',
+          ),
+        )),
+        'chat' => 
+        Telegram\Bot\Objects\Chat::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'type' => 'private',
+          ),
+        )),
+        'date' => 1553462592,
+        'text' => '/start',
+        'entities' => 
+        array (
+          0 => 
+          array (
+            'offset' => 0,
+            'length' => 6,
+            'type' => 'bot_command',
+          ),
+        ),
+      ),
+    )),
+  ),
+))
+
+Telegram\Bot\Objects\Update::__set_state(array(
+   'items' => 
+  array (
+    'update_id' => 989507006,
+    'message' => 
+    Telegram\Bot\Objects\Message::__set_state(array(
+       'items' => 
+      array (
+        'message_id' => 136,
+        'from' => 
+        Telegram\Bot\Objects\User::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'is_bot' => false,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'language_code' => 'ru',
+          ),
+        )),
+        'chat' => 
+        Telegram\Bot\Objects\Chat::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'type' => 'private',
+          ),
+        )),
+        'date' => 1553462360,
+        'text' => '/start',
+        'entities' => 
+        array (
+          0 => 
+          array (
+            'offset' => 0,
+            'length' => 6,
+            'type' => 'bot_command',
+          ),
+        ),
+      ),
+    )),
+  ),
+))
+
+Telegram\Bot\Objects\Update::__set_state(array(
+   'items' => 
+  array (
+    'update_id' => 989507010,
+    'message' => 
+    Telegram\Bot\Objects\Message::__set_state(array(
+       'items' => 
+      array (
+        'message_id' => 140,
+        'from' => 
+        Telegram\Bot\Objects\User::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'is_bot' => false,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'language_code' => 'ru',
+          ),
+        )),
+        'chat' => 
+        Telegram\Bot\Objects\Chat::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'type' => 'private',
+          ),
+        )),
+        'date' => 1553462608,
+        'text' => '/start',
+        'entities' => 
+        array (
+          0 => 
+          array (
+            'offset' => 0,
+            'length' => 6,
+            'type' => 'bot_command',
+          ),
+        ),
+      ),
+    )),
+  ),
+))
+
+Telegram\Bot\Objects\Update::__set_state(array(
+   'items' => 
+  array (
+    'update_id' => 989507012,
+    'message' => 
+    Telegram\Bot\Objects\Message::__set_state(array(
+       'items' => 
+      array (
+        'message_id' => 142,
+        'from' => 
+        Telegram\Bot\Objects\User::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'is_bot' => false,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'language_code' => 'ru',
+          ),
+        )),
+        'chat' => 
+        Telegram\Bot\Objects\Chat::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'type' => 'private',
+          ),
+        )),
+        'date' => 1553462729,
+        'text' => '/start',
+        'entities' => 
+        array (
+          0 => 
+          array (
+            'offset' => 0,
+            'length' => 6,
+            'type' => 'bot_command',
+          ),
+        ),
+      ),
+    )),
+  ),
+))
+
+Telegram\Bot\Objects\Update::__set_state(array(
+   'items' => 
+  array (
+    'update_id' => 989507019,
+    'message' => 
+    Telegram\Bot\Objects\Message::__set_state(array(
+       'items' => 
+      array (
+        'message_id' => 163,
+        'from' => 
+        Telegram\Bot\Objects\User::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'is_bot' => false,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'language_code' => 'ru',
+          ),
+        )),
+        'chat' => 
+        Telegram\Bot\Objects\Chat::__set_state(array(
+           'items' => 
+          array (
+            'id' => 140419085,
+            'first_name' => 'pooh95',
+            'username' => 'pooh95',
+            'type' => 'private',
+          ),
+        )),
+        'date' => 1553463008,
+        'text' => '/start',
+        'entities' => 
+        array (
+          0 => 
+          array (
+            'offset' => 0,
+            'length' => 6,
+            'type' => 'bot_command',
+          ),
+        ),
+      ),
+    )),
+  ),
+))
+
